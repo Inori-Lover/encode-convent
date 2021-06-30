@@ -1,0 +1,6 @@
+**/*.svg
+**/*.ejs
+.umi
+.umi-production
+.umi-test
+dist
